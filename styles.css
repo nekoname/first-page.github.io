@@ -1,11 +1,5 @@
 .promo {
-    margin: 0;
-    padding: 0;
-}
-
-.d-flex {
-    margin: 0;
-    padding: 0;
+    max-width: 1176px;
 }
 
 a:link, a:visited, a:active {
