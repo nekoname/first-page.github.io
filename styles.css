@@ -6,3 +6,7 @@ a:link, a:visited, a:active {
     text-decoration:none;
     color: black;
 }
+.carrousel-item, .promo >.m-1{
+    font-size: 13px;
+}
+
