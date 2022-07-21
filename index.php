@@ -26,7 +26,7 @@
     <br>
     <div class="row">
       <div class="card col m-3">
-        <a href="#">
+        <a href="#" class="text-decoration-none text-dark">
           <img src="images/portada_dracula.jpg" class="card-img-top p-4">
           <div class="card-body">
             <h5>Dracula</h5>
@@ -35,8 +35,8 @@
             <br>
               <a class="btn btn-primary" href="downloads/hola.txt" download="book.txt">Descargar</a>
             <br><br>
-            <a href="#" class="badge rounded-pill bg-danger">Comedia</a>
-            <a href="#" class="badge rounded-pill bg-success">Ficción</a>
+            <a href="categorias/comedia.html" class="badge rounded-pill bg-danger text-decoration-none">Comedia</a>
+            <a href="categorias/ficcion.html" class="badge rounded-pill bg-success text-decoration-none">Ficción</a>
           </div>
         </a>
       </div>
@@ -50,8 +50,8 @@
             <br>
               <a class="btn btn-primary" href="downloads/hola.txt" download="book.txt">Descargar</a>
             <br><br>
-            <a href="#" class="badge rounded-pill bg-danger">Comedia</a>
-            <a href="#" class="badge rounded-pill bg-success">Ficción</a>
+            <a href="categorias/comedia.html" class="badge rounded-pill bg-danger text-decoration-none">Comedia</a>
+            <a href="categorias/ficcion.html" class="badge rounded-pill bg-success text-decoration-none">Ficción</a>
           </div>
         </a>
       </div>
@@ -65,8 +65,8 @@
             <br>
               <a class="btn btn-primary" href="downloads/hola.txt" download="book.txt">Descargar</a>
             <br><br>
-            <a href="#" class="badge rounded-pill bg-danger">Comedia</a>
-            <a href="#" class="badge rounded-pill bg-success">Ficción</a>
+            <a href="categorias/comedia.html" class="badge rounded-pill bg-danger text-decoration-none">Comedia</a>
+            <a href="categorias/ficcion.html" class="badge rounded-pill bg-success text-decoration-none">Ficción</a>
           </div>
         </a>
       </div>
@@ -80,8 +80,8 @@
             <br>
               <a class="btn btn-primary" href="downloads/hola.txt" download="book.txt">Descargar</a>
             <br><br>
-            <a href="#" class="badge rounded-pill bg-danger">Comedia</a>
-            <a href="categorias/ficcion.html" class="badge rounded-pill bg-success">Ficción</a>
+            <a href="categorias/comedia.html" class="badge rounded-pill bg-danger text-decoration-none">Comedia</a>
+            <a href="categorias/ficcion.html" class="badge rounded-pill bg-success text-decoration-none">Ficción</a>
           </div>
         </a>
       </div>
