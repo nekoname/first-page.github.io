@@ -1,35 +1,21 @@
 
-  <div class="promo d-flex mx-auto">
+  <div class="promo d-flex mx-auto" style="font-size: 14px; max-width: 1176px;">
     <div class="carousel slide m-1 flex-grow-1" data-bs-ride="carousel">
       <div class="carousel-inner">
-        <div class="carousel-item active" data-bs-interval="2000">
-          <a href="#">Envío gratis a partir de 20€</a>
-        </div>
-        <div class="carousel-item" data-bs-interval="2000">
-          <a href="#">5% de descuento</a>
-        </div>
-        <div class="carousel-item" data-bs-interval="2000">
-          <a href="#">Otro descuento</a>
-        </div>
+        <a href="#" class="carousel-item active text-decoration-none text-dark" data-bs-interval="2000">Envío gratis a partir de 20€</a>
+        <a href="#" class="carousel-item  text-decoration-none text-dark" data-bs-interval="2000">5% de descuento</a>
+        <a href="#" class="carousel-item  text-decoration-none text-dark" data-bs-interval="2000">Otro descuento</a>
       </div>
     </div>
-    <div class="m-1">
-      <a href="#">Blog</a>
-    </div>
-    <div class="m-1">
-      <a href="#">Estado de tu pedido</a>
-    </div>
-    <div class="m-1">
-      <a href="#">Ayuda</a>
-    </div>
-    <div class="m-1">
-      <a href="#">Venta a empresa e instituciones</a>
-    </div>
+    <a href="#" class="m-1 text-decoration-none text-dark">Blog</a>
+    <a href="#" class="m-1 text-decoration-none text-dark">Estado de tu pedido</a>
+    <a href="#" class="m-1 text-decoration-none text-dark">Ayuda</a>  
+    <a href="#" class="m-1 text-decoration-none text-dark">Venta a empresa e instituciones</a>
   </div>
   
   <div class="navbar navbar-primary bg-primary">
 
-      <div class="promo container d-flex">
+      <div class="container d-flex" style="max-width: 1176px;">
         <a href="#" class="navbar-brand d-flex align-items-center">
           <svg width="36px" height="48px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M560 448H512V113.5c0-27.25-21.5-49.5-48-49.5L352 64.01V128h96V512h112c8.875 0 16-7.125 16-15.1v-31.1C576 455.1 568.9 448 560 448zM280.3 1.007l-192 49.75C73.1 54.51 64 67.76 64 82.88V448H16c-8.875 0-16 7.125-16 15.1v31.1C0 504.9 7.125 512 16 512H320V33.13C320 11.63 300.5-4.243 280.3 1.007zM232 288c-13.25 0-24-14.37-24-31.1c0-17.62 10.75-31.1 24-31.1S256 238.4 256 256C256 273.6 245.3 288 232 288z"/></svg>
           <strong>QUORASIUM</strong>
@@ -47,12 +33,8 @@
 
         
         <div>
-          <button class="btn btn-dark">
-            <a href="#" class="text-white">Alta socio</a>
-          </button>
-          <button class="btn btn-dark">
-            <a href="#" class="text-white">Identificate</a>
-          </button>
+            <a href="#" class="btn btn-dark text-decoration-none text-white">Alta socio</a>
+            <a href="#" class="btn btn-dark text-decoration-none text-white">Identificate</a>
         </div>
 
       </div>
