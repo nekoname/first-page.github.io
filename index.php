@@ -35,8 +35,8 @@
             <br>
               <a class="btn btn-primary" href="downloads/hola.txt" download="book.txt">Descargar</a>
             <br><br>
-            <a href="categorias/comedia.html" class="badge rounded-pill bg-danger text-decoration-none">Comedia</a>
-            <a href="categorias/ficcion.html" class="badge rounded-pill bg-success text-decoration-none">Ficción</a>
+            <a href="categorias/comedia.php" class="badge rounded-pill text-white bg-danger text-decoration-none">Comedia</a>
+            <a href="categorias/ficcion.php" class="badge rounded-pill text-white bg-success text-decoration-none">Ficción</a>
           </div>
         </a>
       </div>
@@ -50,8 +50,8 @@
             <br>
               <a class="btn btn-primary" href="downloads/hola.txt" download="book.txt">Descargar</a>
             <br><br>
-            <a href="categorias/comedia.html" class="badge rounded-pill bg-danger text-decoration-none">Comedia</a>
-            <a href="categorias/ficcion.html" class="badge rounded-pill bg-success text-decoration-none">Ficción</a>
+            <a href="categorias/comedia.php" class="badge rounded-pill text-white bg-danger text-decoration-none">Comedia</a>
+            <a href="categorias/ficcion.php" class="badge rounded-pill text-white bg-success text-decoration-none">Ficción</a>
           </div>
         </a>
       </div>
@@ -65,8 +65,8 @@
             <br>
               <a class="btn btn-primary" href="downloads/hola.txt" download="book.txt">Descargar</a>
             <br><br>
-            <a href="categorias/comedia.html" class="badge rounded-pill bg-danger text-decoration-none">Comedia</a>
-            <a href="categorias/ficcion.html" class="badge rounded-pill bg-success text-decoration-none">Ficción</a>
+            <a href="categorias/comedia.php" class="badge rounded-pill text-white bg-danger text-decoration-none">Comedia</a>
+            <a href="categorias/ficcion.php" class="badge rounded-pill text-white bg-success text-decoration-none">Ficción</a>
           </div>
         </a>
       </div>
@@ -80,12 +80,14 @@
             <br>
               <a class="btn btn-primary" href="downloads/hola.txt" download="book.txt">Descargar</a>
             <br><br>
-            <a href="categorias/comedia.html" class="badge rounded-pill text-white bg-danger text-decoration-none">Comedia</a>
-            <a href="categorias/ficcion.html" class="badge rounded-pill bg-success text-decoration-none">Ficción</a>
+            <a href="categorias/comedia.php" class="badge rounded-pill text-white bg-danger text-decoration-none">Comedia</a>
+            <a href="categorias/ficcion.php" class="badge rounded-pill text-white bg-success text-decoration-none">Ficción</a>
           </div>
         </a>
       </div>
     </div>
+
+
     
     <div style="height: 100px;"></div>
 
@@ -281,7 +283,6 @@
             </tr>
         </tfoot>
     </table>
-    <div style="height: 100px;"></div>
   </main>
   <footer>
       <?php include("includes/footer.php") ?>

@@ -12,16 +12,12 @@
     <a href="#" class="m-1 text-decoration-none text-dark">Ayuda</a>  
     <a href="#" class="m-1 text-decoration-none text-dark">Venta a empresa e instituciones</a>
   </div>
-  
-  <div class="navbar navbar-primary bg-primary">
-
+  <nav class="navbar navbar-primary bg-primary">
       <div class="container d-flex" style="max-width: 1176px;">
         <a href="#" class="navbar-brand d-flex align-items-center">
           <svg width="36px" height="48px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M560 448H512V113.5c0-27.25-21.5-49.5-48-49.5L352 64.01V128h96V512h112c8.875 0 16-7.125 16-15.1v-31.1C576 455.1 568.9 448 560 448zM280.3 1.007l-192 49.75C73.1 54.51 64 67.76 64 82.88V448H16c-8.875 0-16 7.125-16 15.1v31.1C0 504.9 7.125 512 16 512H320V33.13C320 11.63 300.5-4.243 280.3 1.007zM232 288c-13.25 0-24-14.37-24-31.1c0-17.62 10.75-31.1 24-31.1S256 238.4 256 256C256 273.6 245.3 288 232 288z"/></svg>
           <strong>QUORASIUM</strong>
         </a>
-
-
         <div class="row">
           <div class="col-auto">
             <div class="input-group">
@@ -30,12 +26,41 @@
             </div>
           </div>
         </div>
-
-        
         <div>
-            <a href="#" class="btn btn-dark text-decoration-none text-white">Alta socio</a>
-            <a href="#" class="btn btn-dark text-decoration-none text-white">Identificate</a>
+          <a href="#" class="btn btn-dark text-decoration-none text-white">Alta socio</a>
+          <a href="#" class="btn btn-dark text-decoration-none text-white">Identificate</a>
         </div>
-
       </div>
+  </nav>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container d-fluid" style="max-width: 1176px;">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-center" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <li class="nav-item mx-5">
+          <a class="nav-link active" aria-current="page" href="/">Home</a>
+        </li>
+        <li class="nav-item mx-5">
+          <a class="nav-link" href="libros.php">Libros</a>
+        </li>
+        <li class="nav-item mx-5">
+          <a class="nav-link" href="categorias.php">Categorías</a>
+        </li>
+        <li class="nav-item mx-5">
+          <a class="nav-link" href="autores.php">Autores</a>
+        </li>
+        <li class="nav-item dropdown mx-5">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Destacados
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <li><a class="dropdown-item" href="/categorias/ficcion.php">Ficción</a></li>
+            <li><a class="dropdown-item" href="/categorias/comedia.php">Comedia</a></li>
+          </ul>
+        </li>
+      </ul>
     </div>
+    </div>
+  </nav>
