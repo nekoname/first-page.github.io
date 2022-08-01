@@ -1,5 +1,5 @@
-
-  <div class="promo d-flex mx-auto" style="font-size: 14px; max-width: 1176px;">
+  <!-- class="d-none d-lg-flex hace que un div sea solo vilible en lg-->
+  <div class="d-none d-lg-flex mx-auto" style="font-size: 14px; max-width: 1176px;">
     <div class="carousel slide m-1 flex-grow-1" data-bs-ride="carousel">
       <div class="carousel-inner">
         <a href="#" class="carousel-item active text-decoration-none text-dark" data-bs-interval="2000">Envío gratis a partir de 20€</a>
@@ -43,13 +43,13 @@
           <a class="nav-link active" aria-current="page" href="/">Home</a>
         </li>
         <li class="nav-item mx-5">
-          <a class="nav-link" href="libros.php">Libros</a>
+          <a class="nav-link" href="/libros.php">Libros</a>
         </li>
         <li class="nav-item mx-5">
-          <a class="nav-link" href="categorias.php">Categorías</a>
+          <a class="nav-link" href="/categorias.php">Categorías</a>
         </li>
         <li class="nav-item mx-5">
-          <a class="nav-link" href="autores.php">Autores</a>
+          <a class="nav-link" href="/autores.php">Autores</a>
         </li>
         <li class="nav-item dropdown mx-5">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">

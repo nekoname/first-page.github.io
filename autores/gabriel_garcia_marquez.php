@@ -17,11 +17,11 @@
     <nav aria-label="breadcrumb" class="my-2">
       <ol class="breadcrumb">
         <li class="breadcrumb-item" aria-current="page">Home</li>
-        <li class="breadcrumb-item" aria-current="page">Categías</li>
-        <li class="breadcrumb-item active" aria-current="page">Comedia</li>
+        <li class="breadcrumb-item" aria-current="page">Autores</li>
+        <li class="breadcrumb-item active" aria-current="page">Gabriel García Márquez</li>
       </ol>
     </nav>
-    <h1 class="my-4 align-items-center text-primary text-center">Comedia</h1>
+    <h1 class="my-4 align-items-center text-primary text-center">Gabriel García Márquez</h1>
     <div class="row">
       <div class="col-sm-3">
         <div class="card">

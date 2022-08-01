@@ -14,14 +14,12 @@
   <header>
     <?php include("includes/header.php"); ?>
   </header>
-
   <main class="mx-auto" style="max-width: 1176px;">
     <nav aria-label="breadcrumb" class="my-2">
       <ol class="breadcrumb">
         <li class="breadcrumb-item active" aria-current="page">Home</li>
       </ol>
     </nav>
-
     <h1 class="my-4 align-items-center text-primary text-center">Quorasium: Libros de dominio público</h1>
     <br>
     <div class="row">
@@ -86,11 +84,8 @@
         </a>
       </div>
     </div>
-
-
-    
+    <!--
     <div style="height: 100px;"></div>
-
     <table id="example" class="display" style="width:100%">
         <thead>
             <tr>
@@ -283,6 +278,7 @@
             </tr>
         </tfoot>
     </table>
+  -->
   </main>
   <footer>
       <?php include("includes/footer.php") ?>
